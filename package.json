@@ -1,0 +1,20 @@
+{
+  "name": "food-fest-landing-page",
+  "version": "1.0.0",
+  "description": "exercise-3",
+  "homepage": "https://github.com/sandiliviwe04/Food-Fest#readme",
+  "bugs": {
+    "url": "https://github.com/sandiliviwe04/Food-Fest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandiliviwe04/Food-Fest.git"
+  },
+  "license": "ISC",
+  "author": "Liviwe Sandi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
